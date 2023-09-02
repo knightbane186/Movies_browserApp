@@ -23,7 +23,7 @@ To initialize and run the project on your local machine, follow these steps:
    ```bash
    cd movie-results-generator
 
-npm install
-npm start
+   npm install
+   npm start
 
 
